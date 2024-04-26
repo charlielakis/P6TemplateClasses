@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="P6TemplateClasses" targetName="P6TemplateClasses" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40d4f9bb-56b0-4bb8-8c85-7b57aca1fafb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IP Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP1/#1/.idea/#1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP1/G++/.idea/G++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP1/quiztest/.idea/quiztest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP1/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP2/CHAP2TEST/.idea/CHAP2TEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP3/CHAP3CS/.idea/CHAP3CS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP3/CHAP3StreamMan/.idea/CHAP3StreamMan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP3/chap3test/.idea/chap3test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP4/FastFreight/.idea/FastFreight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP4/MODULE4(MOVIES)/.idea/MODULE4(MOVIES).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP4/Module4(VACATION)/.idea/Module4(VACATION).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP4/chap4PIT/.idea/chap4PIT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP4/ctime/.idea/ctime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP4/speedofsound/.idea/speedofsound.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP4/switchcase/.idea/switchcase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/Accumulator/.idea/Accumulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/AccumulatorExample/.idea/AccumulatorExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/FibonnacciNumbers/.idea/FibonnacciNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/FindTheDivsors/.idea/FindTheDivsors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/ForLoop/.idea/ForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/MODULE5/.idea/MODULE5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/listing/.idea/listing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/nestedloop/.idea/nestedloop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/numbersp2/.idea/numbersp2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP5/numspt3/.idea/numspt3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP6/InTheSpotlight/.idea/InTheSpotlight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP6/Module6/.idea/Module6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP6/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP7/InTheSpotlight/.idea/InTheSpotlight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP7/MODULE7/.idea/MODULE7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP7/MODULE7/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP7/quiz7/.idea/quiz7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAP8/MODULE8/.idea/MODULE8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM 3/PIAT/.idea/PIAT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM3/Module11PIAT/.idea/Module11PIAT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FINAL/EmployeeClassPIAT/.idea/EmployeeClassPIAT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FINAL/PIAT/.idea/PIAT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE 12/Project/.idea/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE10/FastFoodData/.idea/FastFoodData.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE10/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE10/test/archive/.idea/archive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE10/test2/.idea/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE11/.idea/MODULE11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE9/.idea/MODULE9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MODULE9/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1/.idea/P1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P3DynamicMemory/.idea/P3DynamicMemory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4ContainerClasses/.idea/P4ContainerClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P5 Virtual Functions/.idea/P5 Virtual Functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/P6TemplateClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POINTERS(NOTES)/.idea/POINTERS(NOTES).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RESEARCH/.idea/RESEARCH.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST2/.idea/TEST2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/STRUCT/.idea/STRUCT.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2fWsobX5JYu5OMn1zO0sOU6cwv0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6TemplateClasses" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="P6TemplateClasses" TARGET_NAME="P6TemplateClasses" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="P6TemplateClasses" RUN_TARGET_NAME="P6TemplateClasses">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40d4f9bb-56b0-4bb8-8c85-7b57aca1fafb" name="Changes" comment="" />
+      <created>1713928343259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713928343259</updated>
+      <workItem from="1713928344533" duration="6417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

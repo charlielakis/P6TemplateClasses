@@ -1,0 +1,3 @@
+/Users/charlielakis/Desktop/IP Assignments/P6TemplateClasses/cmake-build-debug/CMakeFiles/P6TemplateClasses.dir
+/Users/charlielakis/Desktop/IP Assignments/P6TemplateClasses/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charlielakis/Desktop/IP Assignments/P6TemplateClasses/cmake-build-debug/CMakeFiles/rebuild_cache.dir

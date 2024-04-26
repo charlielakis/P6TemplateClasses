@@ -1,0 +1,805 @@
+Index: ../MODULE10/test2/.idea/test2.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MODULE10/test2/.idea/test2.iml b/../MODULE10/test2/.idea/test2.iml
+new file mode 100644
+--- /dev/null	(date 1700439555849)
++++ b/../MODULE10/test2/.idea/test2.iml	(date 1700439555849)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP3/CHAP3StreamMan/.idea/CHAP3StreamMan.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP3/CHAP3StreamMan/.idea/CHAP3StreamMan.iml b/../CHAP3/CHAP3StreamMan/.idea/CHAP3StreamMan.iml
+new file mode 100644
+--- /dev/null	(date 1696643096217)
++++ b/../CHAP3/CHAP3StreamMan/.idea/CHAP3StreamMan.iml	(date 1696643096217)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../P3DynamicMemory/.idea/P3DynamicMemory.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../P3DynamicMemory/.idea/P3DynamicMemory.iml b/../P3DynamicMemory/.idea/P3DynamicMemory.iml
+new file mode 100644
+--- /dev/null	(date 1710722822603)
++++ b/../P3DynamicMemory/.idea/P3DynamicMemory.iml	(date 1710722822603)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../MODULE9/test/.idea/test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MODULE9/test/.idea/test.iml b/../MODULE9/test/.idea/test.iml
+new file mode 100644
+--- /dev/null	(date 1699851220448)
++++ b/../MODULE9/test/.idea/test.iml	(date 1699851220448)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/MODULE5/.idea/MODULE5.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/MODULE5/.idea/MODULE5.iml b/../CHAP5/MODULE5/.idea/MODULE5.iml
+new file mode 100644
+--- /dev/null	(date 1696183363912)
++++ b/../CHAP5/MODULE5/.idea/MODULE5.iml	(date 1696183363912)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP3/CHAP3CS/.idea/CHAP3CS.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP3/CHAP3CS/.idea/CHAP3CS.iml b/../CHAP3/CHAP3CS/.idea/CHAP3CS.iml
+new file mode 100644
+--- /dev/null	(date 1696644158303)
++++ b/../CHAP3/CHAP3CS/.idea/CHAP3CS.iml	(date 1696644158303)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../EXAM3/Module11PIAT/.idea/Module11PIAT.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../EXAM3/Module11PIAT/.idea/Module11PIAT.iml b/../EXAM3/Module11PIAT/.idea/Module11PIAT.iml
+new file mode 100644
+--- /dev/null	(date 1702517308435)
++++ b/../EXAM3/Module11PIAT/.idea/Module11PIAT.iml	(date 1702517308435)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP1/test/.idea/test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP1/test/.idea/test.iml b/../CHAP1/test/.idea/test.iml
+new file mode 100644
+--- /dev/null	(date 1696132166797)
++++ b/../CHAP1/test/.idea/test.iml	(date 1696132166797)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../MODULE9/.idea/MODULE9.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MODULE9/.idea/MODULE9.iml b/../MODULE9/.idea/MODULE9.iml
+new file mode 100644
+--- /dev/null	(date 1699916982462)
++++ b/../MODULE9/.idea/MODULE9.iml	(date 1699916982462)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../FINAL/EmployeeClassPIAT/.idea/EmployeeClassPIAT.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../FINAL/EmployeeClassPIAT/.idea/EmployeeClassPIAT.iml b/../FINAL/EmployeeClassPIAT/.idea/EmployeeClassPIAT.iml
+new file mode 100644
+--- /dev/null	(date 1702517309994)
++++ b/../FINAL/EmployeeClassPIAT/.idea/EmployeeClassPIAT.iml	(date 1702517309994)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../MODULE 12/Project/.idea/Project.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MODULE 12/Project/.idea/Project.iml b/../MODULE 12/Project/.idea/Project.iml
+new file mode 100644
+--- /dev/null	(date 1701638170995)
++++ b/../MODULE 12/Project/.idea/Project.iml	(date 1701638170995)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/FindTheDivsors/.idea/FindTheDivsors.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/FindTheDivsors/.idea/FindTheDivsors.iml b/../CHAP5/FindTheDivsors/.idea/FindTheDivsors.iml
+new file mode 100644
+--- /dev/null	(date 1696816308412)
++++ b/../CHAP5/FindTheDivsors/.idea/FindTheDivsors.iml	(date 1696816308412)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/numspt3/.idea/numspt3.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/numspt3/.idea/numspt3.iml b/../CHAP5/numspt3/.idea/numspt3.iml
+new file mode 100644
+--- /dev/null	(date 1696816318890)
++++ b/../CHAP5/numspt3/.idea/numspt3.iml	(date 1696816318890)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../TEST2/.idea/TEST2.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../TEST2/.idea/TEST2.iml b/../TEST2/.idea/TEST2.iml
+new file mode 100644
+--- /dev/null	(date 1699291270976)
++++ b/../TEST2/.idea/TEST2.iml	(date 1699291270976)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/numbersp2/.idea/numbersp2.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/numbersp2/.idea/numbersp2.iml b/../CHAP5/numbersp2/.idea/numbersp2.iml
+new file mode 100644
+--- /dev/null	(date 1696811245502)
++++ b/../CHAP5/numbersp2/.idea/numbersp2.iml	(date 1696811245502)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP7/InTheSpotlight/.idea/InTheSpotlight.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP7/InTheSpotlight/.idea/InTheSpotlight.iml b/../CHAP7/InTheSpotlight/.idea/InTheSpotlight.iml
+new file mode 100644
+--- /dev/null	(date 1697996320102)
++++ b/../CHAP7/InTheSpotlight/.idea/InTheSpotlight.iml	(date 1697996320102)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP6/InTheSpotlight/.idea/InTheSpotlight.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP6/InTheSpotlight/.idea/InTheSpotlight.iml b/../CHAP6/InTheSpotlight/.idea/InTheSpotlight.iml
+new file mode 100644
+--- /dev/null	(date 1697213209093)
++++ b/../CHAP6/InTheSpotlight/.idea/InTheSpotlight.iml	(date 1697213209093)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP4/speedofsound/.idea/speedofsound.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP4/speedofsound/.idea/speedofsound.iml b/../CHAP4/speedofsound/.idea/speedofsound.iml
+new file mode 100644
+--- /dev/null	(date 1696662821987)
++++ b/../CHAP4/speedofsound/.idea/speedofsound.iml	(date 1696662821987)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/listing/.idea/listing.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/listing/.idea/listing.iml b/../CHAP5/listing/.idea/listing.iml
+new file mode 100644
+--- /dev/null	(date 1696805684972)
++++ b/../CHAP5/listing/.idea/listing.iml	(date 1696805684972)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../MODULE10/test/.idea/test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MODULE10/test/.idea/test.iml b/../MODULE10/test/.idea/test.iml
+new file mode 100644
+--- /dev/null	(date 1700439348827)
++++ b/../MODULE10/test/.idea/test.iml	(date 1700439348827)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/nestedloop/.idea/nestedloop.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/nestedloop/.idea/nestedloop.iml b/../CHAP5/nestedloop/.idea/nestedloop.iml
+new file mode 100644
+--- /dev/null	(date 1696796611603)
++++ b/../CHAP5/nestedloop/.idea/nestedloop.iml	(date 1696796611603)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP4/ctime/.idea/ctime.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP4/ctime/.idea/ctime.iml b/../CHAP4/ctime/.idea/ctime.iml
+new file mode 100644
+--- /dev/null	(date 1696646722877)
++++ b/../CHAP4/ctime/.idea/ctime.iml	(date 1696646722877)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP7/MODULE7/test/.idea/test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP7/MODULE7/test/.idea/test.iml b/../CHAP7/MODULE7/test/.idea/test.iml
+new file mode 100644
+--- /dev/null	(date 1698019405319)
++++ b/../CHAP7/MODULE7/test/.idea/test.iml	(date 1698019405319)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../.idea/IP Assignments.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../.idea/IP Assignments.iml b/../.idea/IP Assignments.iml
+new file mode 100644
+--- /dev/null	(date 1693865602512)
++++ b/../.idea/IP Assignments.iml	(date 1693865602512)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/ForLoop/.idea/ForLoop.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/ForLoop/.idea/ForLoop.iml b/../CHAP5/ForLoop/.idea/ForLoop.iml
+new file mode 100644
+--- /dev/null	(date 1696795286583)
++++ b/../CHAP5/ForLoop/.idea/ForLoop.iml	(date 1696795286583)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP7/quiz7/.idea/quiz7.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP7/quiz7/.idea/quiz7.iml b/../CHAP7/quiz7/.idea/quiz7.iml
+new file mode 100644
+--- /dev/null	(date 1698010486114)
++++ b/../CHAP7/quiz7/.idea/quiz7.iml	(date 1698010486114)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP6/untitled/.idea/untitled.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP6/untitled/.idea/untitled.iml b/../CHAP6/untitled/.idea/untitled.iml
+new file mode 100644
+--- /dev/null	(date 1697236573131)
++++ b/../CHAP6/untitled/.idea/untitled.iml	(date 1697236573131)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../RESEARCH/.idea/RESEARCH.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../RESEARCH/.idea/RESEARCH.iml b/../RESEARCH/.idea/RESEARCH.iml
+new file mode 100644
+--- /dev/null	(date 1708375283285)
++++ b/../RESEARCH/.idea/RESEARCH.iml	(date 1708375283285)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/venv" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: ../CHAP4/chap4PIT/.idea/chap4PIT.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP4/chap4PIT/.idea/chap4PIT.iml b/../CHAP4/chap4PIT/.idea/chap4PIT.iml
+new file mode 100644
+--- /dev/null	(date 1696655754582)
++++ b/../CHAP4/chap4PIT/.idea/chap4PIT.iml	(date 1696655754582)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP2/CHAP2TEST/.idea/CHAP2TEST.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP2/CHAP2TEST/.idea/CHAP2TEST.iml b/../CHAP2/CHAP2TEST/.idea/CHAP2TEST.iml
+new file mode 100644
+--- /dev/null	(date 1696630159359)
++++ b/../CHAP2/CHAP2TEST/.idea/CHAP2TEST.iml	(date 1696630159359)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP1/#1/.idea/#1.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP1/#1/.idea/#1.iml b/../CHAP1/#1/.idea/#1.iml
+new file mode 100644
+--- /dev/null	(date 1694399663859)
++++ b/../CHAP1/#1/.idea/#1.iml	(date 1694399663859)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CIDR" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP6/Module6/.idea/Module6.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP6/Module6/.idea/Module6.iml b/../CHAP6/Module6/.idea/Module6.iml
+new file mode 100644
+--- /dev/null	(date 1697254344404)
++++ b/../CHAP6/Module6/.idea/Module6.iml	(date 1697254344404)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../EXAM 3/PIAT/.idea/PIAT.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../EXAM 3/PIAT/.idea/PIAT.iml b/../EXAM 3/PIAT/.idea/PIAT.iml
+new file mode 100644
+--- /dev/null	(date 1701930295199)
++++ b/../EXAM 3/PIAT/.idea/PIAT.iml	(date 1701930295199)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../MODULE11/.idea/MODULE11.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MODULE11/.idea/MODULE11.iml b/../MODULE11/.idea/MODULE11.iml
+new file mode 100644
+--- /dev/null	(date 1700985481664)
++++ b/../MODULE11/.idea/MODULE11.iml	(date 1700985481664)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP3/chap3test/.idea/chap3test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP3/chap3test/.idea/chap3test.iml b/../CHAP3/chap3test/.idea/chap3test.iml
+new file mode 100644
+--- /dev/null	(date 1696646057180)
++++ b/../CHAP3/chap3test/.idea/chap3test.iml	(date 1696646057180)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../FINAL/PIAT/.idea/PIAT.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../FINAL/PIAT/.idea/PIAT.iml b/../FINAL/PIAT/.idea/PIAT.iml
+new file mode 100644
+--- /dev/null	(date 1702454537966)
++++ b/../FINAL/PIAT/.idea/PIAT.iml	(date 1702454537966)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../MODULE10/test/archive/.idea/archive.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MODULE10/test/archive/.idea/archive.iml b/../MODULE10/test/archive/.idea/archive.iml
+new file mode 100644
+--- /dev/null	(date 1700441724533)
++++ b/../MODULE10/test/archive/.idea/archive.iml	(date 1700441724533)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CIDR" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP4/switchcase/.idea/switchcase.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP4/switchcase/.idea/switchcase.iml b/../CHAP4/switchcase/.idea/switchcase.iml
+new file mode 100644
+--- /dev/null	(date 1696651108983)
++++ b/../CHAP4/switchcase/.idea/switchcase.iml	(date 1696651108983)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../P1/.idea/P1.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../P1/.idea/P1.iml b/../P1/.idea/P1.iml
+new file mode 100644
+--- /dev/null	(date 1705789667186)
++++ b/../P1/.idea/P1.iml	(date 1705789667186)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP1/quiztest/.idea/quiztest.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP1/quiztest/.idea/quiztest.iml b/../CHAP1/quiztest/.idea/quiztest.iml
+new file mode 100644
+--- /dev/null	(date 1694969984346)
++++ b/../CHAP1/quiztest/.idea/quiztest.iml	(date 1694969984346)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../Practice/.idea/Practice.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Practice/.idea/Practice.iml b/../Practice/.idea/Practice.iml
+new file mode 100644
+--- /dev/null	(date 1699422103812)
++++ b/../Practice/.idea/Practice.iml	(date 1699422103812)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP4/Module4(VACATION)/.idea/Module4(VACATION).iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP4/Module4(VACATION)/.idea/Module4(VACATION).iml b/../CHAP4/Module4(VACATION)/.idea/Module4(VACATION).iml
+new file mode 100644
+--- /dev/null	(date 1697415329242)
++++ b/../CHAP4/Module4(VACATION)/.idea/Module4(VACATION).iml	(date 1697415329242)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../testing/STRUCT/.idea/STRUCT.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../testing/STRUCT/.idea/STRUCT.iml b/../testing/STRUCT/.idea/STRUCT.iml
+new file mode 100644
+--- /dev/null	(date 1700883433003)
++++ b/../testing/STRUCT/.idea/STRUCT.iml	(date 1700883433003)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP8/MODULE8/.idea/MODULE8.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP8/MODULE8/.idea/MODULE8.iml b/../CHAP8/MODULE8/.idea/MODULE8.iml
+new file mode 100644
+--- /dev/null	(date 1698527279096)
++++ b/../CHAP8/MODULE8/.idea/MODULE8.iml	(date 1698527279096)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../P4ContainerClasses/.idea/P4ContainerClasses.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../P4ContainerClasses/.idea/P4ContainerClasses.iml b/../P4ContainerClasses/.idea/P4ContainerClasses.iml
+new file mode 100644
+--- /dev/null	(date 1712358702105)
++++ b/../P4ContainerClasses/.idea/P4ContainerClasses.iml	(date 1712358702105)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../MODULE10/FastFoodData/.idea/FastFoodData.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MODULE10/FastFoodData/.idea/FastFoodData.iml b/../MODULE10/FastFoodData/.idea/FastFoodData.iml
+new file mode 100644
+--- /dev/null	(date 1700351539976)
++++ b/../MODULE10/FastFoodData/.idea/FastFoodData.iml	(date 1700351539976)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP1/G++/.idea/G++.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP1/G++/.idea/G++.iml b/../CHAP1/G++/.idea/G++.iml
+new file mode 100644
+--- /dev/null	(date 1694399616523)
++++ b/../CHAP1/G++/.idea/G++.iml	(date 1694399616523)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: .idea/P6TemplateClasses.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/P6TemplateClasses.iml b/.idea/P6TemplateClasses.iml
+new file mode 100644
+--- /dev/null	(date 1714087436529)
++++ b/.idea/P6TemplateClasses.iml	(date 1714087436529)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1714087436539)
++++ b/.idea/modules.xml	(date 1714087436539)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/P6TemplateClasses.iml" filepath="$PROJECT_DIR$/.idea/P6TemplateClasses.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: ../CHAP4/FastFreight/.idea/FastFreight.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP4/FastFreight/.idea/FastFreight.iml b/../CHAP4/FastFreight/.idea/FastFreight.iml
+new file mode 100644
+--- /dev/null	(date 1696656164632)
++++ b/../CHAP4/FastFreight/.idea/FastFreight.iml	(date 1696656164632)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1714087436557)
++++ b/.idea/misc.xml	(date 1714087436557)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1714087436566)
++++ b/.idea/vcs.xml	(date 1714087436566)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1714087437276)
++++ b/.idea/.gitignore	(date 1714087437276)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: ../CHAP5/FibonnacciNumbers/.idea/FibonnacciNumbers.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/FibonnacciNumbers/.idea/FibonnacciNumbers.iml b/../CHAP5/FibonnacciNumbers/.idea/FibonnacciNumbers.iml
+new file mode 100644
+--- /dev/null	(date 1696814688464)
++++ b/../CHAP5/FibonnacciNumbers/.idea/FibonnacciNumbers.iml	(date 1696814688464)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP4/MODULE4(MOVIES)/.idea/MODULE4(MOVIES).iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP4/MODULE4(MOVIES)/.idea/MODULE4(MOVIES).iml b/../CHAP4/MODULE4(MOVIES)/.idea/MODULE4(MOVIES).iml
+new file mode 100644
+--- /dev/null	(date 1695607476421)
++++ b/../CHAP4/MODULE4(MOVIES)/.idea/MODULE4(MOVIES).iml	(date 1695607476421)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/AccumulatorExample/.idea/AccumulatorExample.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/AccumulatorExample/.idea/AccumulatorExample.iml b/../CHAP5/AccumulatorExample/.idea/AccumulatorExample.iml
+new file mode 100644
+--- /dev/null	(date 1696791703667)
++++ b/../CHAP5/AccumulatorExample/.idea/AccumulatorExample.iml	(date 1696791703667)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../P5 Virtual Functions/.idea/P5 Virtual Functions.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../P5 Virtual Functions/.idea/P5 Virtual Functions.iml b/../P5 Virtual Functions/.idea/P5 Virtual Functions.iml
+new file mode 100644
+--- /dev/null	(date 1713399813464)
++++ b/../P5 Virtual Functions/.idea/P5 Virtual Functions.iml	(date 1713399813464)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP5/Accumulator/.idea/Accumulator.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP5/Accumulator/.idea/Accumulator.iml b/../CHAP5/Accumulator/.idea/Accumulator.iml
+new file mode 100644
+--- /dev/null	(date 1696795849745)
++++ b/../CHAP5/Accumulator/.idea/Accumulator.iml	(date 1696795849745)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../CHAP7/MODULE7/.idea/MODULE7.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CHAP7/MODULE7/.idea/MODULE7.iml b/../CHAP7/MODULE7/.idea/MODULE7.iml
+new file mode 100644
+--- /dev/null	(date 1698011115249)
++++ b/../CHAP7/MODULE7/.idea/MODULE7.iml	(date 1698011115249)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
+Index: ../POINTERS(NOTES)/.idea/POINTERS(NOTES).iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../POINTERS(NOTES)/.idea/POINTERS(NOTES).iml b/../POINTERS(NOTES)/.idea/POINTERS(NOTES).iml
+new file mode 100644
+--- /dev/null	(date 1708374907992)
++++ b/../POINTERS(NOTES)/.idea/POINTERS(NOTES).iml	(date 1708374907992)
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module classpath="CMake" type="CPP_MODULE" version="4" />
+\ No newline at end of file
